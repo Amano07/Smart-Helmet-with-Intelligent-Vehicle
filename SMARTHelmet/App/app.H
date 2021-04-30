@@ -46,7 +46,7 @@
 
 /* GSM: CONFIGURATION */
 #ifdef TESTING
-	#define RPhNum	 "7975099033"
+	#define RPhNum	 "8851762880"
 #else
 	#define RPhNum	 "9716622541"
 #endif
